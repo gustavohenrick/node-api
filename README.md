@@ -9,7 +9,7 @@
 
 
 
-## 🚀 Tecnologias
+## 🚀 Stack's
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -19,13 +19,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 
-## 💻 Projeto
+## 💻 Project
 
 Esse projeto foi construído para servir de apoio no estudo de consumo de APIs REST
 
 
 
-## Como utilizar?
+## How to use?
 
 1. Baixe esse repositório e com o seu o terminal, entre no diretório
 
@@ -35,7 +35,7 @@ Esse projeto foi construído para servir de apoio no estudo de consumo de APIs R
 
 
 
-## :memo: Licença
+## :memo: Permit
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
